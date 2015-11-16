@@ -1,0 +1,55 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#2196f3"
+    >
+
+    <ImageView
+        android:layout_margin="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/fish"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_margin="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your First Pet Fish!"
+        android:textSize="35sp"
+        android:textColor="#e3f2fd"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Started"
+        android:layout_margin="8dp"
+        android:layout_gravity="center"
+        android:onClick="startLesson"
+        android:textColor="#b3e5fc"
+        />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Created by Aric Forrest"
+            android:textSize="20sp"
+            android:textColor="#e3f2fd"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="30dp"
+            />
+    </RelativeLayout>
+
+
+</LinearLayout>

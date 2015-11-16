@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Fish Pet</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lesson_1_title">Fish Species</string>
+    <string name="lesson_1_description">The type of fish you plan to have as a pet will impact the environment and requirements for the tank. Freshwater fish are typically easy to care for and make a great first fish and nice addition to your home.
+        \n\n
+        Several factors to research and consider when deciding on your fish:
+        \n\n
+        Water chemistry\n
+        Just as we need air to breath to survive, fish need their water to fall within the correct range for their species. This typically will include fresh water vs salt water and hot vs cold.
+        \n\n
+        Food supply\n
+        Determine what food will be needed for your fish
+        \n\n
+        Fish Aggression\n
+        Some tropical fish are more aggressive than others and will need a large amount of space if you want to have fish-mates in the tank with it. Otherwise they will fight and most likely kill your other fish.
+        \n\n
+        Breeding\n
+        Take note of the sex of the fish you purchase as the possibility of the fish breeding will impact the requirements for their tank. Also, some fish become aggressive toward other fish if two are breeding.
+    </string>
+    <string name="lesson_1_photoDesc">Take a picture of your fish as you are purchasing it!</string>
+
+    <string name="lesson_2_title">Tank and Accessories</string>
+    <string name="lesson_2_description">The tank is the home for the fish and will need to be maintained to ensure your fish remains happy and healthy.
+        \n\n
+        Size\n
+        The number of fish will directly impact the size of tank you need. If you have chosen an aggressive species than ensure you have a large tank to provide the required space for the fish not to fight.
+        \n\n
+        Water treatment\n
+        Your local tap water may include small amounts of chlorine and other chemicals not safe for fish. It\'s a good idea to purchase a Water conditioner to make the water safe for your fish.
+        \n\n
+        Rocks and Gravel\n
+        These provide an area for beneficial bacteria colonies to grow as well as making your fish more comfortable with his tank. Without gravel you will need to change the water much more frequently.
+        \n\n
+        Filtration\n
+        It is a good idea to purchase a tank with a filter as it reduces the frequency of necessary water changes. Match the correct filter with your tank size listed on the filter boxes.
+        \n\n
+        Thermostat\n
+        You should monitor the water temperature to ensure it falls within the recommended range. Fresh water fish should be kept between 76 F to 80 F.
+        \n\n
+        Heater\n
+        If the tank is not meeting the recommended temperature range purchase a heater.
+        \n\n
+        Plants and Decor\n
+        It\'s a good idea to give your fish somewhere to hide by adding plants and other aquarium decor. Be cautious as some of the plastic plants can cut the fins on your fish.
+    </string>
+    <string name="lesson_2_photoDesc">Take a picture with anyone who helped you decide on your tank!</string>
+
+    <string name="lesson_3_title">Clean Tank and Accessories</string>
+    <string name="lesson_3_description">Now that you\'ve purchased all the materials for the tank it\'s a good idea and clean them. Do not use soap on these items as it can be toxic for the fish, instead rinse the items and tank with hot water.
+        \n\n
+        Run the charcoal filter cartridge under water for a few minutes before adding into the filter.
+    </string>
+    <string name="lesson_3_photoDesc">Take an action shot cleaning!</string>
+
+    <string name="lesson_4_title">Add Water and Treatment</string>
+    <string name="lesson_4_description">It\'s now time to add the water, accessories and water treatment into the tank. The water treatment packaging should list the amount of treatment to add based on the size of your tank.
+    </string>
+    <string name="lesson_4_photoDesc">Take a picture filling the tank</string>
+
+    <string name="lesson_5_title">Add Your Fish</string>
+    <string name="lesson_5_description">Allow the water in the tank to reach room temperature before adding your fish. Typically when transferring your fish from one body of water to another they should be about the same temperature otherwise the fish will go into shock.
+    </string>
+    <string name="lesson_5_photoDesc">Take a picture of your fish in his new home!</string>
+</resources>
